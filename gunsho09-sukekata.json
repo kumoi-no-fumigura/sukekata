@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 1,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho09-sukekata-0001",
@@ -429,6 +432,7 @@
   "poems": 33,
   "editions": 1,
   "updated": "2026-11-01",
-  "updated_at": "2026-11-01T23:00:22+09:00"
+  "updated_at": "2026-11-01T23:00:22+09:00",
+  "yaku": 1
  }
 }
